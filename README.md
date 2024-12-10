@@ -21,9 +21,3 @@
   <a href="https://www.linkedin.com/in/yeslei1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<div> 
-  
-  <img align="center" alt="Rafa-Csharp" src="https://media1.tenor.com/m/j2Z4cL21OOIAAAAd/mashle-mash.gif">
-  
-</div>
